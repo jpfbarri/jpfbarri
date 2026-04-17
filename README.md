@@ -2,8 +2,7 @@
 
 # João Pedro Ferreira Barrionuevo
 
-**Systems & Automation**  
-Building tools that replace manual workflows
+Building cool stuff that replaces manual workflows
 
 <br>
 
