@@ -6,6 +6,6 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,java,ts,nodejs,postgres,aws,git" />
+<img src="https://skillicons.dev/icons?i=python,java,ts,nodejs,postgres" />
 
 </div>
