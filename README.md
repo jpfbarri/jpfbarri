@@ -2,7 +2,8 @@
 
 # João Pedro Ferreira Barrionuevo
 
-**Building cool stuff with data, backend and automation**
+**Systems & Automation**  
+Building tools that replace manual workflows
 
 <br>
 
