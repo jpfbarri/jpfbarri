@@ -20,7 +20,7 @@ Atualmente construindo a **Imperius**, com foco em gerar mais receita e reduzir 
 
 ### Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,ts,nodejs,mysql,postgres,aws,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,java,ts,nodejs,postgres,aws,git" />
 </p>
 
 **Tecnologias principais:**  
@@ -41,13 +41,15 @@ Python • Java • TypeScript • SQL • Node.js • Power BI • APIs • Aut
 Mais receita. Menos custos.  
 Transformamos processos em lucro com automação estratégica e IA.
 
-🔗 [https://w.app/imperiustech](https://www.instagram.com/imperius_tecnologia/)
+🔗 https://w.app/imperiustech  
+📸 https://www.instagram.com/imperius_tecnologia/
 
 ---
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=jpfbarri&show_icons=true&theme=transparent&hide_border=true&title_color=f97316&icon_color=f97316&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpfbarri&layout=compact&theme=transparent&hide_border=true&title_color=f97316&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=jpfbarri&show_icons=true&theme=transparent&hide_border=true&title_color=f97316&icon_color=f97316&text_color=c9d1d9&count_private=true&include_all_commits=true&hide=issues,contribs" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpfbarri&layout=compact&theme=transparent&hide_border=true&title_color=f97316&text_color=c9d1d9&langs_count=6" />
 
 </div>
