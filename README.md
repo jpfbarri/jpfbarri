@@ -2,7 +2,7 @@
 
 # João Pedro Ferreira Barrionuevo
 
-Building cool stuff that replaces manual workflows
+Building cool stuff that automate business operations
 
 <br>
 
