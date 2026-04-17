@@ -41,7 +41,7 @@ Python • Java • TypeScript • SQL • Node.js • Power BI • APIs • Aut
 Mais receita. Menos custos.  
 Transformamos processos em lucro com automação estratégica e IA.
 
-🔗 https://w.app/imperiustech
+🔗 [https://w.app/imperiustech](https://www.instagram.com/imperius_tecnologia/)
 
 ---
 
