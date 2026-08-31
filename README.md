@@ -6,6 +6,6 @@ Building cool stuff that automate business operations
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=java,ts,nodejs,postgres" />
+<img src="https://skillicons.dev/icons?i=java,spring,kotlin,ts,nodejs,postgres,dart,flutter" />
 
 </div>
