@@ -1,6 +1,6 @@
 <div align="center">
 
-# João Pedro Ferreira Barrionuevo
+# João Barrionuevo
 
 Building cool stuff that automate business operations
 
